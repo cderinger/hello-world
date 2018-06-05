@@ -1,2 +1,6 @@
 # hello-world
-This is my first GitHub repository
+
+Hello, welcome to my readme!
+
+Thanks for stopping by.
+
